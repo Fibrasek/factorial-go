@@ -3,6 +3,7 @@ module github.com/fibrasek/factorial-go
 go 1.14
 
 require (
+	github.com/arexio/factorial-go v1.0.0
 	github.com/gofrs/uuid v3.3.0+incompatible
 	github.com/gorilla/mux v1.8.0
 	github.com/joho/godotenv v1.3.0
