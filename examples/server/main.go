@@ -16,7 +16,7 @@ import (
 	"github.com/joho/godotenv"
 	"golang.org/x/oauth2"
 
-	"github.com/arexio/factorial-go"
+	"github.com/fibrasek/factorial-go"
 )
 
 var (

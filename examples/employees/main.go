@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/oauth2"
 
-	factorial "github.com/arexio/factorial-go"
+	factorial "github.com/fibrasek/factorial-go"
 )
 
 func main() {

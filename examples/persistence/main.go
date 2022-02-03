@@ -15,7 +15,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
 
-	"github.com/arexio/factorial-go"
+	"github.com/fibrasek/factorial-go"
 )
 
 var (

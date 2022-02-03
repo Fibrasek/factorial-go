@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/gofrs/uuid"
 	"golang.org/x/oauth2"
-	
-	"github.com/arexio/factorial-go"
+
+	"github.com/fibrasek/factorial-go"
 )
 
 type memoryRepository struct {
