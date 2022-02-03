@@ -1,4 +1,4 @@
-module github.com/fibrasek/factorial-go
+module github.com/arexio/factorial-go
 
 go 1.14
 
